@@ -1,0 +1,45 @@
+.postContainer {
+  width: 90%;
+  margin: 0 auto;
+  /* height: 100vh; */
+  padding-top: 50px;
+}
+
+.postContainer h2 {
+  font-size: 35px;
+  text-align: center;
+  font-weight: 300;
+}
+
+.postContainer form {
+  height: 100%;
+}
+
+.postContainer input {
+  font-size: 17px;
+  width: 100%;
+  margin-top: 10px;
+  padding: 12px 10px;
+  box-sizing: border-box;
+  font-weight: 300;
+}
+
+.postContainer button {
+  background: #03a9f4;
+  font-size: 13px;
+  padding: 10px;
+  margin-top: 10px;
+  color: #fff;
+}
+
+.postContainer select {
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.error {
+  color: #ff5722;
+  font-weight: 500;
+  margin-top: 5px;
+  padding: 5px;
+}
